@@ -1,10 +1,10 @@
 # Pascal
 Hey, this is my GitHub profile. Don't really expect too much from it<br />
 My strongsuit is frontend web development (HTML & CSS)<br />
-I know a little Java & Python but that's it >:3
+I know a little Java & Python, learning C# but that's it >:3
 
 # パスカル
 ヤァー！ボクのGitHubプロフィールなんだ。 <br /> 
 あんまり期待しすぎないでねw  <br />
 得意なのはフロントエンドWebプログラミング（HTMLとCSS）  <br />
-JavaとPythonもちょっとだけできるけど…それだけ(;・∀・)
+JavaとPythonもちょっとだけできてC#も習ってるけど…それだけ(;・∀・)
