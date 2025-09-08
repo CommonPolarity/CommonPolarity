@@ -4,7 +4,7 @@ My strongsuit is frontend web development (HTML & CSS)<br />
 I know a little Java & Python, learning C# but that's it >:3
 
 # パスカル
-ヤァー！ボクのGitHubプロフィールなんだ。 <br /> 
+こんにちは！ボクのGitHubプロフィールです。 <br /> 
 あんまり期待しすぎないでねw  <br />
 得意なのはフロントエンドWebプログラミング（HTMLとCSS）  <br />
-JavaとPythonもちょっとだけできてC#も習ってるけど…それだけ(;・∀・)
+JavaとPythonもちょっとだけできてC#も習ってますが…それだけです(^^;)
